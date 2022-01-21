@@ -26,5 +26,5 @@ jobs:
           file: ./src/Dockerfile
           push: true
           tags: |
-            brunofray/rotten-potatoes:latest
-            brunofray/rotten-potatoes:${{ github.run_number }}
+            brunofray/conversaotemperatura:latest
+            brunofray/conversaotemperatura:${{ github.run_number }}
